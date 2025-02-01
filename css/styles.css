@@ -152,7 +152,7 @@
     /* text
      */
     --color-text        : var(--color-gray-4);
-    --color-text-dark   : var(--color-white);
+    --color-text-dark   : var(--color-black);
     --color-text-light  : var(--color-gray-7);
     --color-placeholder : var(--color-gray-7);
 
