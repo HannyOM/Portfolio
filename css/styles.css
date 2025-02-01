@@ -179,7 +179,7 @@
 
     /* others
      */
-    --color-body    : var(--color-gray-2);
+    --color-body    : var(--color-gray-1);
     --color-border  : rgba(255, 255, 255, .05);
     --border-radius : 3px;
 }
