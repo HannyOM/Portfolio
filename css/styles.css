@@ -2677,9 +2677,9 @@ img.u-pull-left {
 .text-pretitle.with-line::before {
     content          : "";
     display          : block;
-    height           : 1px;
+    height           : 2px;
     width            : 4rem;
-    background-color : rgba(255, 255, 255, 0.5);
+    background-color : hsla(36, 72%, 70%, 1);
     position         : absolute;
     top              : 50%;
     left             : 0;
