@@ -3337,7 +3337,7 @@ img.u-pull-left {
         width         : 100%;
         flex-wrap     : wrap;
         padding-left  : 0;
-        padding-right : 8rem;
+        padding-right : 0;
         transform     : none;
         position      : relative;
         left          : var(--gutter);
