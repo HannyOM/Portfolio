@@ -2690,6 +2690,7 @@ img.u-pull-left {
     font-size   : var(--text-huge);
     line-height : 1.0740;
     margin-top  : 0;
+    margin-bottom: 0;
 }
 
 /* ------------------------------------------------------------------- 
