@@ -3234,12 +3234,12 @@ img.u-pull-left {
 }
 
 .intro-social a {
-    color : var(--color-text-light);
+    color : hsla(36, 100%, 70%, 1);
 }
 
 .intro-social a:focus,
 .intro-social a:hover {
-    color : white;
+    color : black;
 }
 
 /* --------------------------------------------------------------------
