@@ -3718,8 +3718,8 @@ img.u-pull-left {
     content          : "";
     display          : block;
     width            : 0;
-    height           : 1px;
-    background-color : var(--color-text-light);
+    height           : 3px;
+    background-color : var(--color-text-white);
     position         : absolute;
     top              : 0;
     left             : 0;
