@@ -153,7 +153,7 @@
      */
     --color-text        : var(--color-gray-4);
     --color-text-dark   : var(--color-white);
-    --color-text-light  : var(--color-gray-7);
+    --color-text-light  : var(--color-white);
     --color-placeholder : var(--color-gray-7);
 
     /* buttons
@@ -3718,7 +3718,7 @@ img.u-pull-left {
     content          : "";
     display          : block;
     width            : 0;
-    height           : 3px;
+    height           : 1px;
     background-color : var(--color-text-white);
     position         : absolute;
     top              : 0;
