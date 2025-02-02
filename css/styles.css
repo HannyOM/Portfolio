@@ -3448,8 +3448,8 @@ img.u-pull-left {
     padding-left : 0;
 }
 
-.about-expertise .skills-list li:not(:last-child)::after {
-    content : ", ";
+.about-expertise .skills-list ::before {
+    content : "- ";
 }
 
 /* --------------------------------------------------------------------
