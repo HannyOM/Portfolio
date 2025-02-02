@@ -3395,8 +3395,8 @@ img.u-pull-left {
  * ------------------------------------------------------------------- */
 
 .s-about {
-    padding-top    : var(--vspace-4);
-    padding-bottom : var(--vspace-3);
+    padding-top    : var(--vspace-1);
+    padding-bottom : var(--vspace-1);
 }
 
 /* --------------------------------------------------------------------
