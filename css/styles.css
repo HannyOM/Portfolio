@@ -3476,7 +3476,7 @@ img.u-pull-left {
     display          : block;
     width            : 3px;
     height           : calc(100% - var(--timeline-top-adjust));
-    background-color : var(--color-text-white);
+    background-color : var(--color-border);
     position         : absolute;
     top              : var(--timeline-top-adjust);
     left             : 3px;
@@ -3733,7 +3733,7 @@ img.u-pull-left {
 
 .folio-list__item-cat {
     font-size   : var(--text-sm);
-    color       : var(--color-text-white);
+    color       : var(--color-text-light);
     line-height : var(--vspace-0_75);
     margin-left : .2rem;
 }
