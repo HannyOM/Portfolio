@@ -3476,7 +3476,7 @@ img.u-pull-left {
     display          : block;
     width            : 3px;
     height           : calc(100% - var(--timeline-top-adjust));
-    background-color : var(--color-border);
+    background-color : var(--color-text-white);
     position         : absolute;
     top              : var(--timeline-top-adjust);
     left             : 3px;
