@@ -41,7 +41,7 @@ var mailtouiApp=mailtouiApp||{};!function(t){var o=document.getElementsByTagName
  * Most modern mobile touch slider and framework with hardware accelerated transitions
  * https://swiperjs.com
  *
- * Copyright 2014-2020 Vladimir Kharlampidi
+ * Copyright 2014-2020 Vladimir Khardeveloperidi
  *
  * Released under the MIT License
  *
