@@ -3474,7 +3474,7 @@ img.u-pull-left {
 .timeline::before {
     content          : "";
     display          : block;
-    width            : 1px;
+    width            : 3px;
     height           : calc(100% - var(--timeline-top-adjust));
     background-color : var(--color-border);
     position         : absolute;
