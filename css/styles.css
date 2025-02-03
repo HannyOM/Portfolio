@@ -3679,6 +3679,7 @@ img.u-pull-left {
     height           : 100%;
     opacity          : 0;
     visibility       : hidden;
+    border-radius   : 15px;
 }
 
 .folio-list__item-pic::after {
