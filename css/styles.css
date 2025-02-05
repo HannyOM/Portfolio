@@ -3460,7 +3460,7 @@ img.u-pull-left {
 .about-timelines {
     --timeline-left-padding : var(--vspace-1_75);
     --timeline-top-adjust   : var(--vspace-0_5);
-    padding-top             : var(--vspace-3);
+    padding-top             : var(--vspace-1);
 }
 
 .about-timelines .text-pretitle {
