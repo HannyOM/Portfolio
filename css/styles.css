@@ -3780,12 +3780,14 @@ img.u-pull-left {
     position         : relative;
     border-radius    : 15px;
     margin           : 15px;
+    box-shadow: rgb(0 0 0 / 40%) 0px 15px 15px -5px;
 }
 
 .modal-popup img {
     border-bottom-right-radius: 0;
-    border-bottom-left-radius: 0;
-    margin-bottom : var(--vspace-0_75);
+    border-bottom-left-radius : 0;
+    margin-bottom             : var(--vspace-0_75);
+    box-shadow                :none;
 }
 
 .modal-popup h5 {
