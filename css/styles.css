@@ -2419,7 +2419,7 @@ td:last-child {
 
 .skill-bars li {
     height        : .4rem;
-    background    : var(--color-gray-9);
+    background    : var(--color-white);
     width         : 100%;
     margin-bottom : calc(var(--vspace-2) - .4rem);
     padding       : 0;
@@ -2448,12 +2448,12 @@ td:last-child {
 .skill-bars li .progress span {
     display       : block;
     font-family   : var(--font-1);
-    color         : white;
+    color         : hsla(36, 100%, 70%, 1);
     font-size     : 1rem;
     line-height   : 1;
-    background    : var(--color-black);
+    background    : var(--color-gray-9);
     padding       : var(--vspace-0_25);
-    border-radius : 4px;
+    border-radius : 10px;
     position      : absolute;
     right         : 0;
     top           : calc((var(--vspace-1) + .8rem) * -1);
@@ -2467,7 +2467,7 @@ td:last-child {
     width            : 0;
     height           : 0;
     border           : 5px solid transparent;
-    border-top-color : var(--color-black, var(--color-black));
+    border-top-color : var(--color-gray-9, var(--color-gray-9));
     content          : "";
 }
 
